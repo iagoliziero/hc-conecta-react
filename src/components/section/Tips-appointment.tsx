@@ -1,4 +1,4 @@
-import TextToSpeechButton from "../tts/TextToSpeechButton";
+import TextToSpeechButton from "../tts_temp/TextToSpeechButton";
 import { LiTips } from "./LiTips";
 
 const TipsAppointment = () => {

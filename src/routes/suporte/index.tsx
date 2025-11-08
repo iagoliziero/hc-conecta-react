@@ -7,7 +7,7 @@ import { useForm } from "react-hook-form";
 import { useLocation } from "react-router-dom";
 import emailjs from "@emailjs/browser";
 import { phoneMask } from "@/utils/mask/phone-mask";
-import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
 import { contacts } from "@/data/contact";
 import IEmailData from "@/interfaces/IEmail-data";
 import sendEmailService from "@/services/email-service";

@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { Paragraph } from "../ui/textos/Paragraph";
 import { H3 } from "../ui/textos/H3";
 import Button from "../ui/button/Button";
-import TextToSpeechButton from "../tts/TextToSpeechButton";
+import TextToSpeechButton from "../tts_temp/TextToSpeechButton";
 import { LucideProps } from "lucide-react";
 
 interface IFeatureCard {

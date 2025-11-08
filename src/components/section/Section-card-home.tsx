@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import TextToSpeechButton from "../tts/TextToSpeechButton";
+import TextToSpeechButton from "../tts_temp/TextToSpeechButton";
 import Button from "../ui/button/Button";
 import H2 from "../ui/textos/H2";
 import { H3 } from "../ui/textos/H3";

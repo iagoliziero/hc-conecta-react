@@ -5,7 +5,7 @@ import Button from "@/components/ui/button/Button";
 import { ImportantNotice } from "@/components/section/ImportantNotice";
 import H1 from "@/components/ui/textos/H1";
 import { Paragraph } from "@/components/ui/textos/Paragraph";
-import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
 import { faqs } from "@/data/faqs";
 import Subtitle from "@/components/ui/textos/Subtitle";
 import { H3 } from "@/components/ui/textos/H3";

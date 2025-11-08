@@ -2,7 +2,7 @@ import { Ilocations } from "@/interfaces/global";
 import Button from "../ui/button/Button";
 import { Paragraph } from "../ui/textos/Paragraph";
 import { MapIcon } from "lucide-react";
-import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
 import locations from "@/data/location";
 
 const Location = () => {

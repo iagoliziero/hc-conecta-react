@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Location from "@/components/section/Location";
-import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 import Button from "@/components/ui/button/Button";
 import H2 from "@/components/ui/textos/H2";
-import { H3 } from "@/components/ui/textos/H3";
 import SectionCardHome from "@/components/section/Section-card-home";
+import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
 
 const Home: React.FC = () => {
   const { pathname } = useLocation();
