@@ -2,7 +2,7 @@ import React from "react";
 import H1 from "@/components/ui/textos/H1";
 import { CircleCheck, CircleUser, Heart, Lightbulb, Mail } from "lucide-react";
 import { Paragraph } from "@/components/ui/textos/Paragraph";
-import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 import { developers } from "@/data/developer";
 import { H3 } from "@/components/ui/textos/H3";
 import H2 from "@/components/ui/textos/H2";

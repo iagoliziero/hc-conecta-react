@@ -3,7 +3,7 @@ import { ImportantNotice } from "@/components/section/ImportantNotice";
 import { useLocation, useNavigate } from "react-router-dom";
 import { Paragraph } from "@/components/ui/textos/Paragraph";
 import H1 from "@/components/ui/textos/H1";
-import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 import Button from "@/components/ui/button/Button";
 import { steps } from "@/data/steps-guide";
 import Subtitle from "@/components/ui/textos/Subtitle";

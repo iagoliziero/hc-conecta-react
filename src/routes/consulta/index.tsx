@@ -4,7 +4,7 @@ import { ImportantNotice } from "@/components/section/ImportantNotice";
 import { useLocation, useNavigate } from "react-router-dom";
 import H1 from "@/components/ui/textos/H1";
 import { Paragraph } from "@/components/ui/textos/Paragraph";
-import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 import { steps } from "@/data/steps";
 import { requiredDocuments } from "@/data/required-documents";
 import Subtitle from "@/components/ui/textos/Subtitle";

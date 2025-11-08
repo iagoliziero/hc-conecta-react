@@ -4,7 +4,7 @@ import Location from "@/components/section/Location";
 import Button from "@/components/ui/button/Button";
 import H2 from "@/components/ui/textos/H2";
 import SectionCardHome from "@/components/section/Section-card-home";
-import TextToSpeechButton from "@/components/tts_temp/TextToSpeechButton";
+import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 
 const Home: React.FC = () => {
   const { pathname } = useLocation();
