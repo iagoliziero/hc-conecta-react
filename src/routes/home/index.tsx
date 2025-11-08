@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { Paragraph } from "@/components/ui/textos/Paragraph";
 import Location from "@/components/section/Location";
 import TextToSpeechButton from "@/components/tts/TextToSpeechButton";
 import Button from "@/components/ui/button/Button";

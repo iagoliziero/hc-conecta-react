@@ -11,8 +11,6 @@ import { listUsers, updateUser } from "@/services/api";
 import INameValues from "@/interfaces/IName-values";
 import IProfileData from "@/interfaces/IProfile-data";
 import { maskPassword } from "@/utils/mask/mask-password";
-import { log } from "console";
-import { set } from "date-fns";
 
 const Profile: React.FC = () => {
   const [profile, setProfile] = useState<IProfileData | null>(null);
